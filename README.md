@@ -26,7 +26,7 @@ This project is a number guessing game created in C using a tree data structure 
 
 - Compile code with GCC:
     - Windows - gcc guess-game.c -o guess-game.exe
-    - Linux   - gcc guess-game.c -o guess-code
+    - Linux   - gcc -o guess-code guess-game.c
 
 - Run the game:
     - Windows - ./guess-game.exe
