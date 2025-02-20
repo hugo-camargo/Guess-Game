@@ -22,7 +22,7 @@ This project is a number guessing game created in C using a tree data structure 
 ## Instalation and Compilation
 
 - Clone the repository: 
-    git clone https://github.com/your-username/guess-game.git
+    git clone https://github.com/hugo-camargo/Guess-Game.git
 
 - Compile code with GCC:
     Windows - gcc guess-game.c -o guess-game.exe
